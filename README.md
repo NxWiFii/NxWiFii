@@ -10,7 +10,7 @@ Add me on Discord! (nxwifi)
 
 [![Languages & Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=nxwifii&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Time Spent](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact&theme=merko)](https://github.com/nxwifii/github-readme-stats)
+[![Time Spent](https://github-readme-stats.vercel.app/api/wakatime?username=nxwifii&layout=compact&theme=merko)](https://github.com/nxwifii/github-readme-stats)
 
 
 [![NxWiFii's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxwifii&show_icons=true&theme=merko)](https://github.com/nxwifii/github-readme-stats)
