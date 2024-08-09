@@ -18,15 +18,7 @@ Add me on Discord! (nxwifi)
 </a>
 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/[ICON lua].svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/[ICON python].svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/[ICON html5].svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/[ICON bootstrap].svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/[ICON markdown].svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/[ICON fivem].svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/[ICON lua].svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/[ICON lua].svg" /> 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[ICON SLUG].svg" />
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
 
 
 ### ⚙️ My Resources: 
