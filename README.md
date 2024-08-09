@@ -7,7 +7,6 @@ Add me on Discord! (nxwifi)
 [Tombstone Roleplay](https://discord.gg/KD9fcZNK4G) - RedM <br>
 
 [Third Eye](https://github.com/NxWiFii/ThirdEye) "All in One" Discord bot
-https://github-readme-stats-nxwifis-projects.vercel.app/
 
 
 
