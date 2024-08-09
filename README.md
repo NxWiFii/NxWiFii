@@ -8,6 +8,9 @@ Add me on Discord! (nxwifi)
 
 [Third Eye](https://github.com/NxWiFii/ThirdEye) "All in One" Discord bot
 
+### Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=html,js,py,lua,md,phpstorm,mysql,discord,ai,ps&perline=10)](https://skillicons.dev)
+
 ### ⚙️ Github Statistics
 <a href="https://github.com/nxwifii">
   <img height=200 align="center" src="https://github-readme-stats-blush-sigma.vercel.app/api?username=nxwifii&show_icons=true&theme=merko&rank_icon=github&include_all_commits=true&count_private=true&count_public=true" />
@@ -16,10 +19,8 @@ Add me on Discord! (nxwifi)
   <img height=200 align="center" src="https://github-readme-stats-blush-sigma.vercel.app/api/top-langs?username=nxwifii&layout=compact&theme=merko&langs_count=10" />
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,py,lua,md,phpstorm,mysql,discord,ai,ps&perline=10)](https://skillicons.dev)
 
-
-### ⚙️ My Resources: 
+### ⚙️ Resources: 
 - OS: Windows 11 PRO
 - Browser: Chrome, Opera
 - Code Editor: VSCode - Notepad++
