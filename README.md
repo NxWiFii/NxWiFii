@@ -2,9 +2,9 @@
 Add me on Discord! (nxwifi)
 
 ### 🚧 Current Projects I'm working on... 
-[Born Again Roleplay](https://discord.gg/3KAPXyUxWJ) - FiveM
-[Styles Roleplay](https://discord.gg/SASS2K22mz) - FiveM 
-[Tombstone Roleplay](https://discord.gg/KD9fcZNK4G) - RedM
+[Born Again Roleplay](https://discord.gg/3KAPXyUxWJ) - FiveM <br>
+[Styles Roleplay](https://discord.gg/SASS2K22mz) - FiveM <br>
+[Tombstone Roleplay](https://discord.gg/KD9fcZNK4G) - RedM <br>
 
 [Third Eye](https://github.com/NxWiFii/ThirdEye) "All in One" Discord bot
 
