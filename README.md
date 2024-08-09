@@ -8,13 +8,12 @@ Add me on Discord! (nxwifi)
 
 [Third Eye](https://github.com/NxWiFii/ThirdEye) "All in One" Discord bot
 
-
 ### ⚙️ Github Statistics
 <a href="https://github.com/nxwifii">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-nxwifis-projects.vercel.app/api?username=nxwifii&show_icons=true&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-nxwifis-projects.vercel.app//api?username=nxwifii&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/nxwifii">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nxwifii&layout=compact&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-nxwifis-projects.vercel.app//top-langs?username=nxwifii&layout=compact&theme=merko" />
 </a>
 
 
