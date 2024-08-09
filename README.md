@@ -15,7 +15,7 @@ https://github-readme-stats-nxwifis-projects.vercel.app/
 
 ### ⚙️ Github Statistics
 <a href="https://github.com/nxwifii/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-nxwifis-projects.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-nxwifis-projects.vercel.app/api?username=nxwifii&show_icons=true" />
 </a>
 <a href="https://github.com/nxwifii/github-readme-stats">
   <img height=200 align="center" src="" />
