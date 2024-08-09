@@ -10,10 +10,10 @@ Add me on Discord! (nxwifi)
 
 ### ⚙️ Github Statistics
 <a href="https://github.com/nxwifii">
-  <img height=200 align="center" src="github-readme-stats-blush-sigma.vercel.app/api?username=nxwifii&show_icons=true&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats-blush-sigma.vercel.app/api?username=nxwifii&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/nxwifii">
-  <img height=200 align="center" src="github-readme-stats-blush-sigma.vercel.app/api/top-langs?username=nxwifii&layout=compact&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats-blush-sigma.vercel.app/api/top-langs?username=nxwifii&layout=compact&theme=merko" />
 </a>
 
 
