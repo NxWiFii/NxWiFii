@@ -8,12 +8,15 @@ Add me on Discord! (nxwifi)
 
 [Third Eye](https://github.com/NxWiFii/ThirdEye) "All in One" Discord bot
 
-[![Languages & Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=nxwifii&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Time Spent](https://github-readme-stats.vercel.app/api/wakatime?username=nxwifii&layout=compact&theme=merko)](https://github.com/nxwifii/github-readme-stats)
 
 
-[![NxWiFii's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxwifii&show_icons=true&theme=merko)](https://github.com/nxwifii/github-readme-stats)
+
+<a href="https://github.com/nxwifii/github-readme-stats">
+  <img height=200 align="center" src="(https://github-readme-stats.vercel.app/api?username=nxwifii&show_icons=true&theme=merko)" />
+</a>
+<a href="https://github.com/nxwifii/convoychat">
+  <img height=200 align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=nxwifii&layout=compact&theme=merko" />
+</a>
 
 
 
