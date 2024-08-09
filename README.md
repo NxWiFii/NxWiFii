@@ -12,7 +12,7 @@ Add me on Discord! (nxwifi)
 
 
 <a href="https://github.com/nxwifii/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nxwifii" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nxwifii&show_icons=true&theme=merko" />
 </a>
 
 
