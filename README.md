@@ -16,7 +16,7 @@ Add me on Discord! (nxwifi)
   <img height=200 align="center" src="https://github-readme-stats-blush-sigma.vercel.app/api/top-langs?username=nxwifii&layout=compact&theme=merko&langs_count=10" />
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=html,ai,py,lua,ps,phpstorm,md,mysql,js,discord&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,py,lua,md,phpstorm,mysql,discord,ai,ps&perline=10)](https://skillicons.dev)
 
 
 ### ⚙️ My Resources: 
