@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm [NxWiFii](https://github.com/NxWiFii)
-Add me on Discord! (nxwifi)
+Add me on [Discord!](https://discord.com) (nxwifi)
 
 ### 🚧 Current Projects I'm working on... 
 [Born Again Roleplay](https://discord.gg/3KAPXyUxWJ) - FiveM <br>
