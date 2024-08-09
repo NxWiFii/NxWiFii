@@ -8,7 +8,7 @@ Add me on Discord! (nxwifi)
 
 [Third Eye](https://github.com/NxWiFii/ThirdEye) "All in One" Discord bot
 
-[![Languages & Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages & Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=nxwifii&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![NxWiFii's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxwifii&show_icons=true&theme=merko)](https://github.com/nxwifii/github-readme-stats)
 
