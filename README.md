@@ -10,10 +10,10 @@ Add me on Discord! (nxwifi)
 
 ### ⚙️ Github Statistics
 <a href="https://github.com/nxwifii">
-  <img height=200 align="center" src="https://github-readme-stats-blush-sigma.vercel.app/api?username=nxwifii&show_icons=true&theme=merko&rank_icon=github&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nxwifii&show_icons=true&theme=merko&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/nxwifii">
-  <img height=200 align="center" src="https://github-readme-stats-blush-sigma.vercel.app/api/top-langs?username=nxwifii&layout=compact&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nxwifii&layout=compact&theme=merko" />
 </a>
 
 
@@ -21,3 +21,5 @@ Add me on Discord! (nxwifi)
 - OS: Windows 11 PRO
 - Browser: Chrome, Opera
 - Code Editor: VSCode - Notepad++
+
+https://github-readme-stats-blush-sigma.vercel.app/api
