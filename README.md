@@ -13,12 +13,11 @@ Add me on Discord! (nxwifi)
 <a href="https://github.com/nxwifii/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-git-master-nxwifis-projects.vercel.app/api?username=nxwifii&show_icons=true&theme=merko" />
 </a>
-<a href="https://github.com/nxwifii/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-nxwifis-projects.vercel.app/api/top-langs/?username=nxwifi&layout=compact&theme=merko" />
+<a href="https://github.com/nxwifii/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nxwifii&layout=compact&theme=merko" />
 </a>
 
 
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
 
 
 ### ⚙️ My Resources: 
