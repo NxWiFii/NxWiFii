@@ -7,14 +7,18 @@ Add me on Discord! (nxwifi)
 [Tombstone Roleplay](https://discord.gg/KD9fcZNK4G) - RedM <br>
 
 [Third Eye](https://github.com/NxWiFii/ThirdEye) "All in One" Discord bot
+https://github-readme-stats-nxwifis-projects.vercel.app/
+
+
+
 
 
 ### ⚙️ Github Statistics
 <a href="https://github.com/nxwifii/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-nxwifis-projects.vercel.app/)/api/top-langs/?username=nxwifii&layout=compact&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-nxwifis-projects.vercel.app/api?username=anuraghazra&show_icons=true" />
 </a>
 <a href="https://github.com/nxwifii/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.ap](https://github-readme-stats-nxwifis-projects.vercel.app/)p/api?username=nxwifii&show_icons=true&theme=merko" />
+  <img height=200 align="center" src="" />
 </a>
 
 
