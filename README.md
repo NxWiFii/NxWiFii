@@ -15,7 +15,7 @@ Add me on Discord! (nxwifi)
 <a href="https://github.com/nxwifii">
   <img height=200 align="center" src="https://github-readme-stats-blush-sigma.vercel.app/api/top-langs?username=nxwifii&layout=compact&theme=merko&langs_count=8" />
 </a>
-
+ 
 
 ### ⚙️ My Resources: 
 - OS: Windows 11 PRO
