@@ -1,6 +1,6 @@
 
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,js,py,lua,md,phpstorm,mysql,discord,ai,ps&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,py,lua,md,phpstorm,mysql,ai,ps&perline=10)](https://skillicons.dev)
 
 ### ⚙️ Github Statistics
 <a href="https://github.com/nxwifii">
