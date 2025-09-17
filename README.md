@@ -1,8 +1,3 @@
-### Hi there! 👋 I'm [NxWiFii](https://github.com/NxWiFii)
-Add me on [Discord!](https://discord.com) (nxwifi)
-
-### 🚧 Current Projects I'm working on... 
-[Third Eye](https://github.com/NxWiFii/ThirdEye) "All in One" Discord bot
 
 ### Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,js,py,lua,md,phpstorm,mysql,discord,ai,ps&perline=10)](https://skillicons.dev)
